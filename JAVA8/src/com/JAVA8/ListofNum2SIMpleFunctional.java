@@ -1,0 +1,20 @@
+package com.JAVA8;
+
+import java.util.List;
+
+public class ListofNum2SIMpleFunctional {
+	public static void main(String[] args) {
+		//Step1: list of numbers
+		PrintListofNumFunctional(List.of(1,2,44,121,121,44,2,46,88));
+		}
+	
+		//Step2: Method of numbers
+		//Step3: Printing logic(Functional)
+		private static void PrintListofNumFunctional(List<Integer> numbers) {
+				
+		numbers.stream()
+			.forEach(System.out::println);// method reference
+		
+		}
+	
+}

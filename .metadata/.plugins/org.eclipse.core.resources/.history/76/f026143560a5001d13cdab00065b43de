@@ -1,0 +1,16 @@
+package com.test;
+
+import java.util.Scanner;
+
+public class EvenOdd {
+public static void main(String[] args) {
+	 Scanner sc = new Scanner(System.in);
+     System.out.print("Enter a binary number: ");
+     String binary = sc.nextLine();
+     if (binary.charAt(binary.length() - 1) == '0') {
+         System.out.println("The binary number is even.");
+     } else {
+         System.out.println("The binary number is odd.");
+     }
+}
+}

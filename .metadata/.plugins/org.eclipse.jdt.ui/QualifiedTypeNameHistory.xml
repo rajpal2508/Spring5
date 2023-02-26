@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.security.DomainCombiner"/>
+    <fullyQualifiedTypeName name="com.spring.interfaces.Car"/>
+    <fullyQualifiedTypeName name="com.spring.Cars.Honda"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="org.springframework.context.ApplicationContext"/>
+    <fullyQualifiedTypeName name="org.springframework.context.support.ClassPathXmlApplicationContext"/>
+    <fullyQualifiedTypeName name="com.spring.Cars.Swift"/>
+    <fullyQualifiedTypeName name="com.spring.interfaces.Engine"/>
+    <fullyQualifiedTypeName name="com.specs.V6"/>
+    <fullyQualifiedTypeName name="jakarta.servlet.annotation.WebServlet"/>
+    <fullyQualifiedTypeName name="java.io.PrintWriter"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.game.Mario"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.game.Game2Controller"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.game.Contra"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.game.Pacman"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.Person"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.Address"/>
+    <fullyQualifiedTypeName name="com.AppGame2_loose.game.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.SpringBeans.Person"/>
+    <fullyQualifiedTypeName name="com.SpringBeans.Address"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayStoreException"/>
+    <fullyQualifiedTypeName name="com.Games.SpringFrameworkgameapp.game.PacmanGame"/>
+    <fullyQualifiedTypeName name="com.Games.SpringFrameworkgameapp.game.GamingConsole"/>
+    <fullyQualifiedTypeName name="com.Games.SpringFrameworkgameapp.game.GameRunner"/>
+    <fullyQualifiedTypeName name="com.DepInjection.SpringFrameworkgameapp.YourBusinessClass"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.ComponentScan"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.AnnotationConfigApplicationContext"/>
+    <fullyQualifiedTypeName name="com.Example.Spring.DataService"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Primary"/>
+    <fullyQualifiedTypeName name="com.Example.Spring.BusinessCalculationService"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RestController"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="com.SpringBoot.P01.Springproject01.CourseController.Course1"/>
+    <fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestMapping"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Configuration"/>
+    <fullyQualifiedTypeName name="org.springframework.boot.context.properties.ConfigurationProperties"/>
+    <fullyQualifiedTypeName name="org.springframework.context.annotation.Bean"/>
+    <fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Qualifier"/>
+    <fullyQualifiedTypeName name="org.springframework.stereotype.Component"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

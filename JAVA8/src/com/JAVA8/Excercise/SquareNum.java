@@ -1,0 +1,20 @@
+package com.JAVA8.Excercise;
+
+import java.util.List;
+
+public class SquareNum {
+
+	public static void main(String[] args) {
+		List<Integer> numbers=List.of(12,11,20,19,25,5,8,11);
+		PrintSquareEVENnum(numbers);
+	}
+
+	private static void PrintSquareEVENnum(List<Integer> numbers) {
+		numbers.stream()// convert to stream
+			.filter(num->num%2==0)// Lambda Expression
+			// mapping -x -> x*x
+			.map(num -> num* num)
+			.forEach(System.out::println);// Method reference
+		
+	}
+}

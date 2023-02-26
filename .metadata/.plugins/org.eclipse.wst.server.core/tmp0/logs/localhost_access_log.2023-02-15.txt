@@ -1,0 +1,2 @@
+127.0.0.1 - - [15/Feb/2023:00:02:22 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [15/Feb/2023:00:02:30 +0530] "GET /S03-Simple_dynamic_web_project/UserDetails HTTP/1.1" 200 87
